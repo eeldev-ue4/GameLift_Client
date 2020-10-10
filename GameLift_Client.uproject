@@ -8,11 +8,6 @@
 			"Name": "GameLiftClient",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f966e14880654189ac3918b27ba2166b"
-		},
-		{
-			"Name": "UE4EditorCustomize",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0d22d9af59624886a6fccd9573fefa90"
 		}
 	]
 }
