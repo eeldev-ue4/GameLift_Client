@@ -5,7 +5,7 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "GameLiftClient",
+			"Name": "AwsGameLiftClient",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f966e14880654189ac3918b27ba2166b"
 		}
